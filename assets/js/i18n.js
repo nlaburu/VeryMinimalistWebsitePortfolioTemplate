@@ -1,4 +1,3 @@
-// i18n.js
 const dict = {
   fr: {
     title: "John Doe - Développeur Web",
